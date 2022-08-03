@@ -1,0 +1,5 @@
+Тестирование интерфейса www.Labirint.ru
+
+Проект создан в рамках курса "Тестировщик-автоматизатор на Python" (Skillfactory)
+Состоит из проверок основного функционала сайта, проверок визуального отображения контента на странице.
+Команда для запуска тестов python -m pytest -v --driver chrome --driver-path chromedriver.exe tests/test_labirint.py
